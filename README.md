@@ -28,3 +28,5 @@ Here is an example of the command when the output file is located at Output.csv:
     python evaluation.py --file_path Output.csv --ground_truth_path dataset/groundTruth.csv
 
 After running this command you should get an overview of the performance of our algorithm for each category.
+
+Note that the training/evaluation video is not included in this repository due to file sizes. If you wish to get this video and its groundTruth file you can contact us so that you can run the evaluation script with the same videos that we did.
